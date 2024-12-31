@@ -1,0 +1,14 @@
+D:\خاص\عمر\route\02 C#\02 OOP\Session 04\Assignments\OOP Session4\bin\Debug\net8.0\OOP Session4.exe
+D:\خاص\عمر\route\02 C#\02 OOP\Session 04\Assignments\OOP Session4\bin\Debug\net8.0\OOP Session4.deps.json
+D:\خاص\عمر\route\02 C#\02 OOP\Session 04\Assignments\OOP Session4\bin\Debug\net8.0\OOP Session4.runtimeconfig.json
+D:\خاص\عمر\route\02 C#\02 OOP\Session 04\Assignments\OOP Session4\bin\Debug\net8.0\OOP Session4.dll
+D:\خاص\عمر\route\02 C#\02 OOP\Session 04\Assignments\OOP Session4\bin\Debug\net8.0\OOP Session4.pdb
+D:\خاص\عمر\route\02 C#\02 OOP\Session 04\Assignments\OOP Session4\obj\Debug\net8.0\OOP Session4.GeneratedMSBuildEditorConfig.editorconfig
+D:\خاص\عمر\route\02 C#\02 OOP\Session 04\Assignments\OOP Session4\obj\Debug\net8.0\OOP Session4.AssemblyInfoInputs.cache
+D:\خاص\عمر\route\02 C#\02 OOP\Session 04\Assignments\OOP Session4\obj\Debug\net8.0\OOP Session4.AssemblyInfo.cs
+D:\خاص\عمر\route\02 C#\02 OOP\Session 04\Assignments\OOP Session4\obj\Debug\net8.0\OOP Session4.csproj.CoreCompileInputs.cache
+D:\خاص\عمر\route\02 C#\02 OOP\Session 04\Assignments\OOP Session4\obj\Debug\net8.0\OOP Session4.dll
+D:\خاص\عمر\route\02 C#\02 OOP\Session 04\Assignments\OOP Session4\obj\Debug\net8.0\refint\OOP Session4.dll
+D:\خاص\عمر\route\02 C#\02 OOP\Session 04\Assignments\OOP Session4\obj\Debug\net8.0\OOP Session4.pdb
+D:\خاص\عمر\route\02 C#\02 OOP\Session 04\Assignments\OOP Session4\obj\Debug\net8.0\OOP Session4.genruntimeconfig.cache
+D:\خاص\عمر\route\02 C#\02 OOP\Session 04\Assignments\OOP Session4\obj\Debug\net8.0\ref\OOP Session4.dll
